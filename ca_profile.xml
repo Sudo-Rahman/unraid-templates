@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<CommunityApplications>
+  <Profile>Unraid template for Ultra Explorer, a file explorer for cloud storage and NAS folders built on rclone. Browse, copy, move and synchronize files between about 40 storage providers and the shares of this server from a web interface.
+
+Report problems and ask questions on the GitHub issues of the release repository.</Profile>
+  <Icon>https://raw.githubusercontent.com/Sudo-Rahman/unraid-templates/main/icon.png</Icon>
+  <WebPage>https://ultra-explorer.app</WebPage>
+</CommunityApplications>
